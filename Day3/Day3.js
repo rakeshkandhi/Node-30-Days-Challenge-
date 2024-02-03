@@ -1,6 +1,4 @@
 const execute=require('child_process');
-const { log } = require('console');
-
 function executeCommand(command) {
     execute.exec(command, (error, stdout, stderr) => {
         if (error) {
