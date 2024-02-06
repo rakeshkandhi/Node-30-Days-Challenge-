@@ -11,4 +11,4 @@ function readFile(filePath) {
     });
 }
 
-readFile('test.txt');
+readFile('../test.txt');

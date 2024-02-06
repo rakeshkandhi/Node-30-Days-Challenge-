@@ -1,2 +1,0 @@
-Hello World!
-Welcome to the node 30 days challenge
